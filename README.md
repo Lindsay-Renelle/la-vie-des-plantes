@@ -1,7 +1,7 @@
 # La vie des plantes
 
-Site e-commerce réalisé avec **WordPress** dans le cadre d’un projet pédagogique.  
-Le site présente une boutique de kits de plantes biologiques destinés aux citadins curieux et passionnés de nature.
+Site e-commerce réalisé avec **WordPress** dans le cadre d’une formation.  
+Le site présente une boutique de kits de plantes biologiques destinés a une population jeune entre 25 et 35 ans, plutôt urbaine..
 
 ---
 
@@ -36,7 +36,7 @@ Le site présente une boutique de kits de plantes biologiques destinés aux cita
 - Formulaire de contact opérationnel
 - Google Map intégrée sur la page Contact
 - Footer personnalisé présent sur toutes les pages
-- Site entièrement **responsive** (desktop, tablette, mobile)
+- Site entièrement responsive (desktop, tablette, mobile)
 
 ---
 
@@ -54,12 +54,12 @@ Le site présente une boutique de kits de plantes biologiques destinés aux cita
 
 ## Installation (en local)
 
-1. Installer un environnement local (ex : LocalWP, XAMPP, WAMP)
+1. Installer un environnement local.
 2. Installer WordPress
 3. Importer la base de données si nécessaire
 4. Placer les fichiers du projet dans le dossier WordPress
 5. Activer le thème et les extensions utilisées
-6. Adresse pour visiter le site : http://localhost/la_vie_des_plantes/
+6. Adresse pour visiter le site : ** http://localhost/la_vie_des_plantes/ **
 
 ---
 
