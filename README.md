@@ -43,8 +43,12 @@ Le site présente une boutique de kits de plantes biologiques destinés a une po
 ## Design & mise en page
 
 - Mise en page réalisée avec **Elementor**
-- Palette de couleurs cohérente et naturelle
-- Polices utilisées :
+- Palette de couleurs cohérente avec les consignes :
+    - #F97068
+    - #EDF2EF
+    - #1E4D3B
+    - #799E2B"
+- Polices :
   - Titres : **Noto Sans**
   - Textes : **Chakra Petch**
 - Structure claire et lisible
